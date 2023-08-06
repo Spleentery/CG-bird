@@ -13,8 +13,8 @@
 
 ## Set-up
 
-Open Project in Visual Studio Code.
-Download Extension for VSC "Live Server"
+* Open Project in Visual Studio Code.
+Download Extension for VSC "Live Server" and click "Go Live"
 
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
@@ -22,22 +22,23 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 (There are other options, any HTTP server that provides static content will do)
 
 
-    Web server for Chrome: A mini web server that runs on Google Chrome itself:
-    https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb   
-    Python: If Python is installed, a simple HTTP server can be created by running the following command in the folder to be shared via the web (depending on the Python version):
+* Web server for Chrome: A mini web server that runs on Google Chrome itself:
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb   
 
-    python -m SimpleHTTPServer 8080 (for 2.x versions)
-    python -m http.server 8080 (for versions 3.x).
+* Python: If Python is installed, a simple HTTP server can be created by running the following command in the folder to be shared via the web (depending on the Python version):
 
-    Node.js: https://www.npmjs.com/package/http-server 
-    Other alternative servers: 
+python -m SimpleHTTPServer 8080 (for 2.x versions)
+python -m http.server 8080 (for versions 3.x).
 
-    https://mongoose.ws/
-    http://nginx.org/en/download.html 
-    https://www.ritlabs.com/en/products/tinyweb/
-    https://caddyserver.com/download 
-    https://www.vercot.com/~serva/ 
-    https://aprelium.com/abyssws/ 
+* Node.js: https://www.npmjs.com/package/http-server 
+* Other alternative servers: 
+
+https://mongoose.ws/
+http://nginx.org/en/download.html 
+https://www.ritlabs.com/en/products/tinyweb/
+https://caddyserver.com/download 
+https://www.vercot.com/~serva/ 
+https://aprelium.com/abyssws/ 
 
 
 
