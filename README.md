@@ -51,9 +51,10 @@ To move the bird
 
 
 ## Notes
- -Tree images from: https://purepng.com/
- -Music from: https://www.chosic.com/download-audio/25463/ 
-
+ - Tree images from: https://purepng.com/
+ - Music from: https://www.chosic.com/download-audio/25463/
+ - More on the project [here](Projeto-2023_en.pdf)
+   
 ## Panorama
 
 ![panorama1](project/screenshots/project-t03g04-1.png)
