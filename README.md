@@ -40,6 +40,14 @@ https://caddyserver.com/download
 https://www.vercot.com/~serva/ 
 https://aprelium.com/abyssws/ 
 
+## Control
+
+- **A, D, W, S**
+To move the bird
+- **P** to pick up an egg
+- **O** to put the egg in the nest (have to be close to the nest)
+- **H** toggle controls
+
 
 
 ## Notes
@@ -48,23 +56,23 @@ https://aprelium.com/abyssws/
 
 ## Panorama
 
-![panorama1](screenshots/project-t03g04-1.png)
+![panorama1](project/screenshots/project-t03g04-1.png)
 
 ## Bird
-![bird](screenshots/project-t03g04-2.png)
+![bird](project/screenshots/project-t03g04-2.png)
 
 ## Terrain
 
-![terrain1](screenshots/project-t03g04-3.png)
-![terrain2](screenshots/project-t03g04-3(2).png)
-![terrain3](screenshots/project-t03g04-3(3).png)
+![terrain1](project/screenshots/project-t03g04-3.png)
+![terrain2](project/screenshots/project-t03g04-3(2).png)
+![terrain3](project/screenshots/project-t03g04-3(3).png)
 
 
 ## Nest and Eggs
 
-![nest-eggs](screenshots/project-t03g04-4.png)
+![nest-eggs](project/screenshots/project-t03g04-4.png)
 
 ## Billboard Creation
 
-![trees](screenshots/project-t03g04-5.png)
+![trees](project/screenshots/project-t03g04-5.png)
 
