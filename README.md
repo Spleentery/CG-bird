@@ -11,6 +11,21 @@
 
 ## Project
 
+## Description
+The aim of this project is to create a scene that combines the different elements explored in previous
+classes. For this work, you should use the code that is provided in Moodle as a base, which
+corresponds to a scene with a plan of 400x400 units. You will later have to add some of the objects
+created in previous works.
+The scene, at the end of the project, must be generically constituted (at least) by:
+
+- A terrain with elevations, created by a shader;
+- A forest, composed of trees using billboards;
+- A bird, animated and controlled by the user, as well as its nest.
+- A cluster of eggs scattered across the land
+The following points describe the main characteristics of the different intended elements. Some
+freedom is given as to their composition in the scene, so that each group can create their own
+scene.
+
 ## Set-up
 
 * Open Project in Visual Studio Code.
