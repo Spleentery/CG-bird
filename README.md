@@ -92,3 +92,6 @@ To move the bird
 
 ![trees](project/screenshots/project-t03g04-5.png)
 
+## Bird pick-up
+
+![pick-up](project/screenshots/pick-up.gif)
