@@ -95,3 +95,7 @@ To move the bird
 ## Bird pick-up
 
 ![pick-up](project/screenshots/pick-up.gif)
+
+## Bird place egg
+
+![*bird is placing egg in the nest*](project/screenshots/place-egg.gif)
